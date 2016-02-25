@@ -1,0 +1,6 @@
+Target		KEYWORD1
+activate	KEYWORD2
+deactivate	KEYWORD2
+isActive	KEYWORD2
+processHit	KEYWORD2
+fade		KEYWORD2
